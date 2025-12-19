@@ -1,1 +1,1 @@
-powershell -ExecutionPolicy Bypass -File "C:\scripts\Copy3_0.ps1"
+powershell -ExecutionPolicy Bypass -File "path to the place where you saved the script.ps1"

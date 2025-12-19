@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "C:\scripts\Copy3_0.ps1"

@@ -1,1 +1,3 @@
-powershell -ExecutionPolicy Bypass -File "path to the place where you saved the script.ps1"
+@echo off
+powershell.exe -ExecutionPolicy Bypass -File "C:\path\to\BackupScript.ps1"
+pause
